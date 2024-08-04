@@ -33,4 +33,4 @@
 > You can do this by saving the images in a folder in your repo, and including them in your readme document with the following Markdown code: 
 
 ####  Lucy Portfolio - Website Screenshot
-![Lucy Portfolio - Website Screenshot](<LN_Portfolio Screenshot.png>)
+![Lucy Portfolio - Website Screenshot](Screenshot.png)
