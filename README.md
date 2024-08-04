@@ -1,6 +1,6 @@
 # Lucy Nguyen - Portfolio Task
 ​
-[My portfolio site](link_to_your_site)
+[My portfolio site](https://duong-28.github.io/)
 ​
 ## Project Requirements
 
