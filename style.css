@@ -341,8 +341,7 @@
 .contact-image {
     width: 50%;
     height: auto;
-    /* display: block;  */
-    border-radius: 50%;
+    display: block;
 }
 
 /* Footer */
