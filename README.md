@@ -5,25 +5,30 @@
 ## Project Requirements
 
 ### Content
- Add a short paragraph describing the features below. What aesthetic and technical choices did you make? 
-- [ ] At least one profile picture
-- [ ] Biography (at least 100 words)
-- [ ] Functional Contact Form
-- [ ] "Projects" section
-- [ ] Links to external sites, e.g. GitHub and LinkedIn.
+Welcome to my portfolio website! Here's a brief overview of its main features:
+
+- [] Profile Picture: Edited with Canva to provide a personal touch to my homepage. 
+- [] Biography: My bio is staying brief and concise, I have plans to expand it as I gain more experience.
+- [] Contact Form: Made a contact form available for anyone who would like to reach out. 
+- [] External links to my GitHub, LinkedIn, and email are included for users convenience and further contact.
+- [] Although there are no project sections at the moment (haven't a project to showcase!), I included a button to be linked to it (hopefully in the near future) in the Bio Section just to show that it's still under development. 
 ​
 ### Technical
- Add a short paragraph describing the features below. What strategies or design decisions did you work from? 
-- [ ] At least 2 web pages.
-- [ ] Version controlled with Git
-- [ ] Deployed on GitHub pages.
-- [ ] Implements responsive design principles.
-- [ ] Uses semantic HTML.
+The project is version-controlled with Git and deployed on GitHub Pages. It's designed to be responsive to have different features on the smaller screen.
 
-### Bonus (optional)
- Add a short paragraph describing the features below, if you included any. 
-- [ ] Different styles for active, hover and focus states.
-- [ ] Include JavaScript to add some dynamic elements to your site. (Extra tricky!)
+-[] Website description: 
+
+The website starts with a fixed header to make navigation easy. I added a smooth scrolling effect for a better user experience when clicking on the navigation items in the header. The 'Work With Me' button is positioned separately to make it stand out more. All items in the header glow and expand when hovered over.
+
+On the first page, my profile photo bounces in (that's why it's round!), and it's next to my name, which has a typewriter effect. The gradient purple color is a nod to the SheCodes theme. The buttons for my GitHub and LinkedIn profiles are external links that also change color when hovered over.
+
+The second page is my bio. It includes a photo and a text section on the opposite side and in a different color from the first page to enhance the viewing effect. The GIF is illuminated as a way of saying, "technology lights up my life!"
+
+The last page is the Contact Form. I'll admit it needs more work as it's currently quite simple, but it is functional.
+
+Similar to the header, items in the footer also expand and glow when hovered over. They are icons for GitHub, LinkedIn, and email, downloaded from Boxicons, and are linked to my personal GitHub, LinkedIn, and email.
+
+The background colors on all pages are chosen to be easy on the eyes, regardless of the time of day, to enhance user experience. I also worked a bit on the scrollbar to give it a more minimal and elegant look.
 ​
 ### Screenshots
 > Please include the following:
@@ -34,3 +39,6 @@
 
 ####  Lucy Portfolio - Website Screenshot
 ![Lucy Portfolio - Website Screenshot](Screenshot.png)
+
+####  Lucy Portfolio - Website Screenshot_Smaller Screen Responsive Design
+![Smaller Screen Responsive Design](Screenshot2.png)
